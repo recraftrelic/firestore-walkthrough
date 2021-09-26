@@ -1,4 +1,4 @@
-Building Login/Signup with React & Firebase
+Learn firebase by building a task management app
 =============================================
 
 Youtube video
